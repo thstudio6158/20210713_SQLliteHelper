@@ -1,0 +1,3 @@
+rootProject.name = "20210713_SQLliteHelper"
+include ':app'
+include ':app', ':youtube-player-view'
