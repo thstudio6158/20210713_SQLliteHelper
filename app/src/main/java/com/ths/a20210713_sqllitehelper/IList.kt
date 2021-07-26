@@ -6,6 +6,6 @@ data class IList(
     var id: Long,
     var no: String,
     var name:String,
-    var qunt: Float,
+    var qunt: Long,
     var quntunit: String,
     var need: Boolean ): Serializable
