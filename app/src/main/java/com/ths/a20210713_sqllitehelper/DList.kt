@@ -15,4 +15,4 @@ data class DList(
     var link: String,
     var thumb: String,
     var startin: Long,
-    var endin: Long ): Serializable
+    var endin: Long ): Serializable //test
