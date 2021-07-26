@@ -16,4 +16,3 @@ data class DList(
     var thumb: String,
     var startin: Long,
     var endin: Long ): Serializable
-
