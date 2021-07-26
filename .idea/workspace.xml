@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="AutoImportSettings">
@@ -32,8 +32,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a551d9-8a12-46b3-bc58-8475ed7ba107" name="Default Changelist" comment="1st study ver">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/IList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627262162496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1st study ver">
+      <created>1627262633646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627262633646</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,9 +238,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5342" y="586" key="#Auto_Import/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626310685836" />
-    <state x="5097" y="705" key="#PSD" timestamp="1626839743866">
-      <screen x="3840" y="0" width="3478" height="1917" />
+    <state x="694" y="382" key="#PSD" timestamp="1627262788690">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="694" y="382" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1627262788690" />
     <state x="5097" y="705" key="#PSD/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626839743866" />
     <state x="5370" y="675" key="#com.intellij.ide.util.MemberChooser" timestamp="1626934182888">
       <screen x="3840" y="0" width="3478" height="1917" />
@@ -283,24 +291,28 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5233" y="664" key="Github.UntrackedFilesDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257490824" />
-    <state width="3435" height="571" key="GridCell.Tab.0.bottom" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1627262805986">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627262805986" />
     <state width="3435" height="571" key="GridCell.Tab.0.bottom/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.bottom/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.center" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1627262805986">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627262805986" />
     <state width="3435" height="571" key="GridCell.Tab.0.center/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.center/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.left" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1627262805986">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627262805986" />
     <state width="3435" height="571" key="GridCell.Tab.0.left/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.left/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state width="3435" height="571" key="GridCell.Tab.0.right" timestamp="1627017896455">
-      <screen x="0" y="0" width="3478" height="1917" />
+    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1627262805986">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627262805986" />
     <state width="3435" height="571" key="GridCell.Tab.0.right/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.0.right/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
     <state width="3435" height="571" key="GridCell.Tab.1.bottom" timestamp="1627017896455">
@@ -339,9 +351,10 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5382" y="737" key="chooseDestDirectoryDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626910411398" />
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262476720">
-      <screen x="3840" y="0" width="3478" height="1917" />
+    <state x="856" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262763645">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="856" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627262763645" />
     <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262476720" />
     <state x="5108" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626413780261">
       <screen x="3840" y="0" width="3478" height="1917" />
