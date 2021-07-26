@@ -1,0 +1,10 @@
+com/ths/a20210713_sqllitehelper/databinding/ItemRecyclerBinding.java
+ com.ths.a20210713_sqllitehelper.databinding.ItemRecyclerBinding
+com/ths/a20210713_sqllitehelper/databinding/ActivityMainBinding.java
+ com.ths.a20210713_sqllitehelper.databinding.ActivityMainBinding
+com/ths/a20210713_sqllitehelper/databinding/ItemIlistBinding.java
+ com.ths.a20210713_sqllitehelper.databinding.ItemIlistBinding
+com/ths/a20210713_sqllitehelper/databinding/ActivityRecommandDetailBinding.java
+ com.ths.a20210713_sqllitehelper.databinding.ActivityRecommandDetailBinding
+com/ths/a20210713_sqllitehelper/BuildConfig.java
+ com.ths.a20210713_sqllitehelper.BuildConfig

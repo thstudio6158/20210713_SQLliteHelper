@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20210713_SQLliteHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/20210713_SQLliteHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/20210713_SQLliteHelper.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/youtube-player-view/20210713_SQLliteHelper.youtube-player-view.iml" filepath="$PROJECT_DIR$/.idea/modules/youtube-player-view/20210713_SQLliteHelper.youtube-player-view.iml" />
+    </modules>
+  </component>
+</project>
