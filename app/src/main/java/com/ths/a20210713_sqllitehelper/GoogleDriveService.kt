@@ -39,7 +39,7 @@ class GoogleDriveService: Application() {
         Log.d("GOOGLESHEET1", "AUTH")
 
         // RList Update Ranges
-        val setRange: ValueRange = try {
+        val setRange: ValueRange = try { //
             service
                 .spreadsheets()
                 .values()
