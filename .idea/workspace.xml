@@ -33,13 +33,13 @@
   <component name="ChangeListManager">
     <list default="true" id="37a551d9-8a12-46b3-bc58-8475ed7ba107" name="Default Changelist" comment="1st study ver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/DList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ths/a20210713_sqllitehelper/DList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@0123456789ABCDEF]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -80,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
@@ -194,13 +194,20 @@
       <updated>1627259332463</updated>
     </task>
     <task id="LOCAL-00003" summary="1st study ver">
-      <created>1627262426364</created>
+      <created>1627262153322</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1627262426364</updated>
+      <updated>1627262153322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st study ver">
+      <created>1627262162496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627262162496</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +220,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st study ver" />
@@ -264,14 +270,14 @@
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state width="476" height="466" key="DebuggerActiveHint/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626836437151" />
-    <state x="5360" y="714" key="FileChooserDialogImpl" timestamp="1627257431672">
+    <state x="5360" y="714" key="FileChooserDialogImpl" timestamp="1627261956470">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5360" y="714" key="FileChooserDialogImpl/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257431672" />
-    <state x="5421" y="857" key="Github.ShareDialog" timestamp="1627257484471">
+    <state x="5360" y="714" key="FileChooserDialogImpl/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627261956470" />
+    <state x="5421" y="857" key="Github.ShareDialog" timestamp="1627262124644">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5421" y="857" key="Github.ShareDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257484471" />
+    <state x="5421" y="857" key="Github.ShareDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262124644" />
     <state x="5233" y="664" key="Github.UntrackedFilesDialog" timestamp="1627257490824">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
@@ -316,23 +322,26 @@
     </state>
     <state width="3435" height="571" key="GridCell.Tab.1.right/0.0.3478.1917/3840.0.3478.1917@0.0.3478.1917" timestamp="1627017896455" />
     <state width="3435" height="571" key="GridCell.Tab.1.right/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626998339781" />
-    <state x="689" y="328" key="SettingsEditor" timestamp="1627262347934">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="689" y="328" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627262347934" />
-    <state x="5088" y="604" key="SettingsEditor/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257393984" />
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627259347361">
+    <state x="5263" y="680" key="RollbackChangesDialog" timestamp="1627261964581">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627259347361" />
+    <state x="5263" y="680" key="RollbackChangesDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627261964581" />
+    <state x="5088" y="604" key="SettingsEditor" timestamp="1627257393984">
+      <screen x="3840" y="0" width="3478" height="1917" />
+    </state>
+    <state x="5088" y="604" key="SettingsEditor/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627257393984" />
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2" timestamp="1627262196109">
+      <screen x="3840" y="0" width="3478" height="1917" />
+    </state>
+    <state x="5172" y="679" key="Vcs.Push.Dialog.v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262196109" />
     <state x="5382" y="737" key="chooseDestDirectoryDialog" timestamp="1626910411398">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
     <state x="5382" y="737" key="chooseDestDirectoryDialog/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1626910411398" />
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627261337460">
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627262476720">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
-    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627261337460" />
+    <state x="5390" y="873" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3478.1917/3840.0.3478.1917@3840.0.3478.1917" timestamp="1627262476720" />
     <state x="5108" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626413780261">
       <screen x="3840" y="0" width="3478" height="1917" />
     </state>
